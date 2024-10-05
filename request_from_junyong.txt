@@ -1,0 +1,11 @@
+gnn/data 위치로 압축파일 풀기
+
+아래 링크에서
+https://drive.google.com/drive/folders/1qRXeuoL-ArQY7pJFnMpNnBu0G-cOz6xv Download it and extract it to a folder named "data".
+
+이 data의 train.json dev.json test.json을 의도에 맞게 변경을 해주면 됨
+
+D1_train D1_valid D1_test
+D2_genD1_train D2_valid D2_test
+D3_genD1_genD2_train D3_valid D3_test
+
